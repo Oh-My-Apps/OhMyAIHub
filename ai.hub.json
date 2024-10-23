@@ -90,7 +90,7 @@
       {
         "id": "noi:lechatmistral",
         "parent": "noi@ai",
-        "text": "Le Chat Mistral",
+        "text": "Mistral AI",
         "url": "https://chat.mistral.ai/chat"
       },
       {
@@ -128,6 +128,12 @@
         "parent": "noi@dev",
         "text": "GitHub",
         "url": "https://github.com"
+      },
+      {
+        "id": "noi:clerk",
+        "parent": "noi@dev",
+        "text": "Clerk",
+        "url": "https://dashboard.clerk.com"
       },
       {
         "id": "noi:replit",
